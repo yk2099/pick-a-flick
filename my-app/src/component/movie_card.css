@@ -1,0 +1,16 @@
+.movie-card-container{
+    flex: content;
+    justify-content: center;
+}
+
+.movie-card-image{
+    display: flex;
+    max-width: 270px;
+    max-height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.movie-card-info{
+    display: flex;
+}

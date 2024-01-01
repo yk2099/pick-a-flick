@@ -1,0 +1,14 @@
+.movie-poster{
+    display: flex;
+    max-width: 270px;
+    max-height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.overview{
+    display:flex;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}

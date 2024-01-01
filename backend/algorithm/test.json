@@ -1,0 +1,30 @@
+[
+    {
+        "genre_ids":[28,14,878],
+        "popularity":23828.993,
+        "release_date":"2022-10-19",
+        "title":"Black Adam",
+        "vote_average":6.8
+    },
+    {
+        "genre_ids":[53,9648],
+        "popularity":684.18,
+        "release_date":"2022-09-23",
+        "title":"The Infernal Machine",
+        "vote_average":6.9
+    },
+    {
+        "genre_ids":[27,53],
+        "popularity":418.818,
+        "release_date":"2022-10-12",
+        "title":"Halloween Ends",
+        "vote_average":6.5
+    },
+    {
+        "genre_ids":[14,35,10751],
+        "popularity":919.841,
+        "release_date":"2022-09-27",
+        "title":"Hocus Pocus 2",
+        "vote_average":7.5
+    }
+]

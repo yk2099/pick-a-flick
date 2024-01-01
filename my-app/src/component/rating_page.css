@@ -1,0 +1,13 @@
+.button-container{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+    width: 20%;
+    right: 40%;
+}
+
+.thumb-button{
+    max-width: 50px;
+    max-height: 50px; 
+}
+
